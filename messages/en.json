@@ -1,0 +1,89 @@
+{
+  "brand": {
+    "name": "Maison Lumière",
+    "tagline": "Heirloom furniture for considered living"
+  },
+  "nav": {
+    "home": "Home",
+    "products": "Collection",
+    "about": "Atelier",
+    "contact": "Contact",
+    "cart": "Cart"
+  },
+  "home": {
+    "heroEyebrow": "Est. 2018 · Crafted in small batches",
+    "heroTitle": "Furniture as enduring as the rooms it inhabits.",
+    "heroSubtitle": "Heirloom-grade pieces, hand-finished by master artisans, designed to outlive trend cycles.",
+    "heroCta": "Explore the collection",
+    "heroCtaSecondary": "Visit the atelier",
+    "featuredTitle": "Featured pieces",
+    "featuredSubtitle": "A curated selection from the current season.",
+    "philosophyEyebrow": "Our philosophy",
+    "philosophyTitle": "Slow design. Honest materials. A single signature on every piece.",
+    "philosophyBody": "Each item is built to order in our atelier from kiln-dried European oak, full-grain leather, and solid brass. Nothing leaves our workshop until it would feel at home a hundred years from now.",
+    "collectionsTitle": "By category",
+    "ctaTitle": "Commission a piece",
+    "ctaBody": "Custom dimensions, bespoke finishes, considered conversations. Tell us what you have in mind.",
+    "ctaButton": "Begin a project"
+  },
+  "products": {
+    "title": "The Collection",
+    "subtitle": "Built to order. Delivered to last.",
+    "all": "All",
+    "addToCart": "Add to cart",
+    "added": "Added",
+    "details": "Details",
+    "dimensions": "Dimensions",
+    "materials": "Materials",
+    "leadTime": "Lead time: 6–8 weeks",
+    "from": "From"
+  },
+  "categories": {
+    "sofas": "Sofas",
+    "chairs": "Chairs",
+    "tables": "Tables",
+    "beds": "Beds",
+    "storage": "Storage"
+  },
+  "cart": {
+    "title": "Your cart",
+    "empty": "Your cart is empty.",
+    "continue": "Continue browsing",
+    "subtotal": "Subtotal",
+    "shippingNote": "Shipping and taxes calculated at checkout.",
+    "checkout": "Proceed to checkout",
+    "remove": "Remove",
+    "quantity": "Qty"
+  },
+  "checkout": {
+    "successTitle": "Thank you for your order",
+    "successBody": "We have received your order. A confirmation will arrive shortly.",
+    "cancelTitle": "Checkout cancelled",
+    "cancelBody": "No payment was taken. Your cart is still saved.",
+    "backToCart": "Back to cart",
+    "backHome": "Return home",
+    "processing": "Processing…",
+    "error": "Something went wrong. Please try again."
+  },
+  "about": {
+    "title": "The Atelier",
+    "lead": "A small workshop, a long memory.",
+    "bodyOne": "Maison Lumière was founded in 2018 by a third-generation cabinetmaker who believed that good furniture should be made the way it was a century ago — slowly, by hand, by people who sign their work.",
+    "bodyTwo": "Our pieces are built to order in a converted barn outside the city, by a team of seven artisans who have collectively spent over a hundred and twenty years at the bench. We work with kiln-dried European oak, vegetable-tanned leather, and brass cast within fifty kilometres of the workshop.",
+    "bodyThree": "Every piece carries a small signature on its underside. If, in fifty years, a joint loosens or a finish ages — bring it back. We will restore it."
+  },
+  "contact": {
+    "title": "Contact",
+    "lead": "Tell us what you have in mind.",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send message",
+    "sent": "Thank you. We will respond within two business days.",
+    "error": "Could not send. Please try again."
+  },
+  "footer": {
+    "rights": "All rights reserved.",
+    "designed": "Designed and built with care."
+  }
+}

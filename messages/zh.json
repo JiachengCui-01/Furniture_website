@@ -1,0 +1,89 @@
+{
+  "brand": {
+    "name": "镜光之屋",
+    "tagline": "为讲究的生活而造的传世家具"
+  },
+  "nav": {
+    "home": "首页",
+    "products": "系列",
+    "about": "工坊",
+    "contact": "联系",
+    "cart": "购物车"
+  },
+  "home": {
+    "heroEyebrow": "创立于 2018 · 小批量手工",
+    "heroTitle": "如它所居之室一般经久的家具。",
+    "heroSubtitle": "由匠人亲手打磨的传世之作，不为潮流而生，只为穿越岁月。",
+    "heroCta": "浏览全系列",
+    "heroCtaSecondary": "走进工坊",
+    "featuredTitle": "本季精选",
+    "featuredSubtitle": "本季精心挑选的代表作。",
+    "philosophyEyebrow": "我们的理念",
+    "philosophyTitle": "慢设计，真材料，每件作品都有匠人签名。",
+    "philosophyBody": "所有作品按单制作，选用窑干欧洲橡木、全粒面皮革与实心黄铜。出厂之物，皆能在百年之后依然安住。",
+    "collectionsTitle": "分类浏览",
+    "ctaTitle": "委托定制",
+    "ctaBody": "定制尺寸、专属工艺、悉心沟通。请告诉我们您的设想。",
+    "ctaButton": "开始委托"
+  },
+  "products": {
+    "title": "完整系列",
+    "subtitle": "按单制作，经久耐用。",
+    "all": "全部",
+    "addToCart": "加入购物车",
+    "added": "已加入",
+    "details": "详情",
+    "dimensions": "尺寸",
+    "materials": "材料",
+    "leadTime": "交期：6–8 周",
+    "from": "起售价"
+  },
+  "categories": {
+    "sofas": "沙发",
+    "chairs": "椅具",
+    "tables": "桌几",
+    "beds": "床具",
+    "storage": "收纳"
+  },
+  "cart": {
+    "title": "购物车",
+    "empty": "购物车暂无商品。",
+    "continue": "继续浏览",
+    "subtotal": "小计",
+    "shippingNote": "运费与税费将在结算时计算。",
+    "checkout": "前往结算",
+    "remove": "移除",
+    "quantity": "数量"
+  },
+  "checkout": {
+    "successTitle": "感谢您的订购",
+    "successBody": "我们已收到您的订单，确认邮件即将送达。",
+    "cancelTitle": "结算已取消",
+    "cancelBody": "未发生扣款，购物车依然保留。",
+    "backToCart": "返回购物车",
+    "backHome": "返回首页",
+    "processing": "处理中…",
+    "error": "出了点问题，请重试。"
+  },
+  "about": {
+    "title": "工坊故事",
+    "lead": "小小的工坊，长长的记忆。",
+    "bodyOne": "镜光之屋创立于 2018 年，由一位第三代木作匠人创办。他相信好家具应像一个世纪前那样——缓慢地、手工地、由愿意为自己的作品署名的人造就。",
+    "bodyTwo": "我们的作品在城外一座改建的谷仓中按单制作。七位匠人合计超过一百二十年的工作经验，使用窑干欧洲橡木、植鞣皮革，以及方圆五十公里之内铸造的黄铜配件。",
+    "bodyThree": "每件作品的底部都有一个小小的签名。五十年后，若有一处接合松动、一层包浆老去——请送回工坊，我们会为它修复。"
+  },
+  "contact": {
+    "title": "联系我们",
+    "lead": "请告诉我们您的设想。",
+    "name": "姓名",
+    "email": "邮箱",
+    "message": "留言",
+    "send": "发送",
+    "sent": "已收到，我们将在两个工作日内回复。",
+    "error": "发送失败，请重试。"
+  },
+  "footer": {
+    "rights": "版权所有。",
+    "designed": "用心设计与构建。"
+  }
+}
